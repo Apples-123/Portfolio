@@ -6,7 +6,6 @@
     background-color:indianred;
    
     
-    
 }
 
 
@@ -174,6 +173,19 @@ img{
     
 }
 
+
+
+form {
+    text-align:justify;
+    text-decoration: none;
+    color:white;
+    margin:60px auto 0;
+    padding:35px;
+    color:black;
+    border-color: white;
+
+}
+
 form button{
     padding:15px;
     color:white;
@@ -185,11 +197,12 @@ form button{
 }
 
 
-@media screen and (max-width:720px) {
-    
+@media screen and (max-width:720px) {}
+    div.example {
+        font-size: 80px;
 }
 *{
-    margin:5px;
+    margin:0px;
     padding:0px;
     box-sizing:border-box;
     background-color:indianred;
